@@ -7,7 +7,7 @@ Itel [requires you to have an Itel ID](https://en.wikipedia.org/wiki/Bootloader_
 
 Earlier, itel didn't require online verification and two weeks of waiting. Things changed.
 
-# Galaxy OS 2.x
+# Galaxy OS 2.0
 
 Since this version they have disabled the ability to unlock the bootloader entirely.
 

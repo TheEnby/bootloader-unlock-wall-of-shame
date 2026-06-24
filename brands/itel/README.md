@@ -1,9 +1,6 @@
 # itel 
 
-- Verdict: **🍅 Terrible! (Galaxy OS 2.x)**
-- Verdict: **⚠️ Proceed with caution! (Galaxy OS 1.x and lower)**
-- Verdict: **🍅 Terrible!** (Unisoc)
-
+- Verdict: **🍅 Terrible!**
 * [**🔓️ Unlock Guide (MediaTek)**](../../misc/generic-unlock.md)
 
 Itel [requires you to have an Itel ID](https://en.wikipedia.org/wiki/Bootloader_unlocking) for two weeks before the OEM Unlocking option becomes available in the settings. Afterwards, you can follow the [standard unlock guide](../../misc/generic-unlock.md) for devices with a MediaTek SoC. Unisoc devices cannot be unlocked, this is *not* itel's fault, Unisoc does not allow unlocking.

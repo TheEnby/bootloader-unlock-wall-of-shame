@@ -1,6 +1,6 @@
 ![Banner. A lock and a key on fire on the left and the text 'Bootloader Unlock: Wall of Shame' on the right.](./misc/banner/banner.jpg)
 
-Keeping track of companies that "care about your data 🥺"
+Keeping track of companies that 'care about your data 🥺'
 
 [Switch to Russian translation](ru/README.md)
 
@@ -19,7 +19,7 @@ Keeping track of companies that "care about your data 🥺"
 Do note issues, pull requests and discussions on Codeberg and tangled are not monitored. Please use GitHub for these.
 
 ## Why?
-Over the past few years, a suspicious number of companies have started to 'take care of your data', aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
+Over the past few years, a suspicious number of companies have started to 'take care of your data', aka block/strictly limit your ability to unlock the bootloader on your **own** devices.
 
 While this may not affect you directly, it sets a bad precedent. You never know what will get the axe next: Shizuku? ADB?<br><br> 
 **They've already gone after [installing](https://keepandroidopen.org).**<br><br>

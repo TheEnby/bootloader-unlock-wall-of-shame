@@ -119,6 +119,8 @@ The following manufacturers require an internet connection and/or a waiting peri
 
 ### [OnePlus](./brands/oneplus/README.md)
 
+### [Onn](./brands/onn/README.md)
+
 ### [Sony](./brands/sony/README.md)
 
 ### [Tecno](./brands/tecno/README.md)

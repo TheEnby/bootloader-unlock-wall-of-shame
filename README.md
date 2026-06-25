@@ -103,7 +103,7 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Samsung](./brands/samsung/README.md)
 
-### [White Labels](./brands/White Labels/README.md)
+### [White Labels](brands/WhiteLabels/Readme.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 

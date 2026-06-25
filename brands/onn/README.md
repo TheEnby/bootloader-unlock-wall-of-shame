@@ -11,4 +11,4 @@ ONN also violates GPL and does not release kernel sources so non OEM provided An
 
 
 ***
-Originally Authored by [Snuupy](https://github.com/Snuupy)., remade by [TheEnby](https://github.com/TheEnby)
+Originally authored by [Snuupy](https://github.com/Snuupy), remade by [TheEnby](https://github.com/TheEnby)

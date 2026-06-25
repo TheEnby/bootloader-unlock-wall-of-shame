@@ -97,6 +97,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
+### [ONN](./brands/onn/README.md)
+
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Oukitel](./brands/oukitel/README.md)
@@ -118,8 +120,6 @@ The following manufacturers require an internet connection and/or a waiting peri
 ### [Infinix](./brands/infinix/README.md)
 
 ### [OnePlus](./brands/oneplus/README.md)
-
-### [Onn](./brands/onn/README.md)
 
 ### [Sony](./brands/sony/README.md)
 

@@ -4,7 +4,8 @@
 
 <!--  **⛔ Avoid!**, **⚠️ Proceed with caution!**, **ℹ️ "Safe for now" :trollface:** -->
 
-**This brand is a white label, so you will never know what ODM your device is from, so it's best to check bootloader unlocking yourself**
+**This brand is a white label, so you will never know what ODM your device is from, so it's best to check bootloader unlocking yourself.**
+
 
 # GPL
 

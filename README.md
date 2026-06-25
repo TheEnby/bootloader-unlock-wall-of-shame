@@ -34,7 +34,7 @@ If you know of specific details or unlocking methods, please PR them or drop the
 > Reminder that no matter how nice a company is, <br/>
 > you should not trust them unless their unlock process is 100% offline!
 
-## 🍅 Just terrible!
+## 🍅 Terrible!
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 

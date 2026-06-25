@@ -97,13 +97,13 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
-### [ONN](./brands/onn/README.md)
-
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Oukitel](./brands/oukitel/README.md)
 
 ### [Samsung](./brands/samsung/README.md)
+
+### [White Labels](./brands/White Labels/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 

@@ -70,6 +70,8 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Vsmart](./brands/Vsmart/README.md)
 
+### [Samsung](./brands/samsung/README.md)
+
 ### [Windows phones](./brands/winphones/README.md)
 
 ### Carrier Locked Devices
@@ -100,8 +102,6 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Oukitel](./brands/oukitel/README.md)
-
-### [Samsung](./brands/samsung/README.md)
 
 ### [White Labels](brands/WhiteLabels/Readme.md)
 

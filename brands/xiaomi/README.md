@@ -15,7 +15,7 @@ It is currently **impossible** to officially unlock Xiaomi phones from the China
 
 With HyperOS, Xiaomi introduced an additional step to the unlock process. You can make the request for unlocking the device inside Developer Options, only after you have made another separate successful request inside the Xiaomi Community App.
 
-For the international verson you can request unlocking in their Community App at 00:00 Chinese GMT+8 time.
+For the international version you can request unlocking in their Community App at 00:00 Chinese GMT+8 time.
 
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
